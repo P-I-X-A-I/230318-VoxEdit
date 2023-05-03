@@ -1,0 +1,23 @@
+#version 460
+
+// in
+layout ( location = 0 ) in vec4 position;
+layout ( location = 1 ) in vec4 color;
+
+// out
+out vec4 color_vs;
+out float zVal;
+
+// mvpMatrix
+uniform mat4 mvpMatrix;
+uniform mat4 modelMatrix;
+
+void main()
+{
+	vec4 modelPos = modelMatrix * position;
+	gl_Position = mvpMatrix * modelPos;
+
+	color_vs = color;
+
+	zVal = gl_Position.z;
+}

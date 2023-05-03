@@ -1,0 +1,20 @@
+#version 460
+
+// in
+layout ( location = 0 ) in vec4 position;
+//layout ( location = 1 ) in vec4 color;
+
+// out
+//out vec4 color_vs;
+
+// mvpMatrix
+uniform mat4 mvpMatrix;
+uniform mat4 modelMatrix;
+uniform vec3 global_shift;
+
+void main()
+{
+	vec4 shiftPos = vec4( position.xyz + global_shift, position.w);
+	vec4 modelPos = modelMatrix * shiftPos;
+	gl_Position = mvpMatrix * modelPos;
+}

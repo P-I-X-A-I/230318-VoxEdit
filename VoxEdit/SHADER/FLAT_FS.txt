@@ -1,0 +1,15 @@
+#version 460
+
+// in
+//in vec4 color_vs;
+
+// out
+layout ( location = 0 ) out vec4 fragColor;
+
+// uniform
+uniform vec4 flatColor;
+
+void main()
+{
+	fragColor = flatColor;
+}

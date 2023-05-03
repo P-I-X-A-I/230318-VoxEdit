@@ -1,0 +1,21 @@
+#version 460
+
+// in
+in vec4 color_vs;
+in float zVal;
+
+// out
+layout ( location = 0 ) out vec4 fragColor;
+
+
+void main()
+{
+	//float convZ = sqrt(gl_FragCoord.z);
+	
+	// the range of Zvalue converted by perspective matrix
+	// may depend on the value of near/far clip range
+	float convZ = (zVal + 12.5) / 12.5;
+
+	vec4 finalCol = vec4(color_vs.rgb, color_vs.a * convZ);
+	fragColor = finalCol;
+}

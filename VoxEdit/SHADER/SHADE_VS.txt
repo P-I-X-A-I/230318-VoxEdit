@@ -1,0 +1,43 @@
+#version 460
+
+// in
+layout ( location = 0 ) in vec4 position;
+layout ( location = 1 ) in vec4 normal;
+
+// out
+out float dotValue;
+out float lightValue;
+
+// mvpMatrix
+uniform mat4 mvpMatrix;
+uniform mat4 modelMatrix;
+uniform vec3 global_shift;
+
+
+void main()
+{
+	// position
+	vec4 shiftPos = vec4( position.xyz + global_shift, position.w);
+	vec4 modelPos = modelMatrix * shiftPos;
+	gl_Position = mvpMatrix * modelPos;
+
+	// eyevec
+	vec3 eyeVec = vec3( 0.0, 0.0, 15.0 ) - vec3(modelPos.xyz);
+	vec3 eyeNorm = normalize(eyeVec);
+
+	// light vec
+	vec3 lightVec = normalize( vec3(1.0, 1.0, 1.0) );
+
+	// normal vec
+	vec4 rotNorm = modelMatrix * normal;
+
+	// dot value 
+	dotValue = max( dot(eyeNorm, rotNorm.xyz), 0.0 );
+	dotValue = (dotValue * 0.8) + 0.2;
+
+	// light value
+	lightValue = max( dot(lightVec, rotNorm.xyz), 0.0);
+	lightValue = (lightValue * 0.7) + 0.3;
+
+
+}

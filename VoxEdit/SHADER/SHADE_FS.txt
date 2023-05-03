@@ -1,0 +1,19 @@
+#version 460
+
+// in
+in float dotValue;
+in float lightValue;
+
+// out
+layout ( location = 0 ) out vec4 fragColor;
+
+// uniform
+uniform vec4 baseColor;
+
+void main()
+{
+	fragColor = vec4( baseColor.r * lightValue * dotValue,
+					  baseColor.g * dotValue,
+					  baseColor.b * dotValue,
+					  baseColor.a);
+}

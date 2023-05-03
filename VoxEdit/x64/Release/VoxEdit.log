@@ -1,0 +1,139 @@
+﻿  mainController.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(53,15): warning C4244: '初期化中': 'UINT_PTR' から 'UINT' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(297,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(298,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(300,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(301,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(303,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(304,23): warning C4244: '=': 'long double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(547,41): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(548,14): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(548,46): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(549,14): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(551,27): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(552,27): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(552,45): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(553,14): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(553,32): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(553,50): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(554,14): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(554,32): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1028,15): warning C4244: '/=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1029,15): warning C4244: '/=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1030,15): warning C4244: '/=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1126,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1127,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1128,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1131,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1132,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1133,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1136,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1137,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1138,25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1169,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1170,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1171,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1173,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1174,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1175,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1177,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1178,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\mainController.cpp(1179,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  matrixClass.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(186,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(200,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(214,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(350,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(362,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(374,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(407,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(408,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(408,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(410,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(425,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(426,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\matrixClass.cpp(427,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  method_Draw.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(8,33): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(22,39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(23,39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(188,41): warning C4305: '初期化中': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(191,32): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_Draw.cpp(195,53): warning C4244: '+=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  method_OpenGL_Setup.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_OpenGL_Setup.cpp(97,21): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_OpenGL_Setup.cpp(115,21): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_OpenGL_Setup.cpp(212,18): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_OpenGL_Setup.cpp(213,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\method_OpenGL_Setup.cpp(217,16): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  OpenGL_Manager_Class.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\OpenGL_Manager_Class.cpp(275,24): warning C4244: '初期化中': 'std::streamoff' から 'unsigned long' への変換です。データが失われる可能性があります。
+  SaveLoadClass.cpp
+  STL.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(356,11): warning C4477: 'printf' : 書式文字列 '%ld' には、型 'long' の引数が必要ですが、可変個引数 1 は型 'fpos_t' です
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(356,11): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(356,11): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(356,11): message : 書式文字列に '%I64d' を使用することをお勧めします
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(357,17): warning C4244: '=': 'fpos_t' から 'long' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(580,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(581,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(582,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(703,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(703,67): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(704,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(704,67): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(706,15): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(706,60): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(708,15): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(708,63): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(710,15): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(710,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(711,12): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(711,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(744,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(901,17): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(902,17): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(932,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(939,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(943,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(947,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1021,18): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1022,18): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1023,18): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1061,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1062,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1063,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1064,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1065,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1066,16): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1069,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1073,26): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1074,26): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1075,26): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1120,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\STL.cpp(1200,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  VoxEdit.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\VoxEdit.cpp(118,11): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'time_t' です
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\VoxEdit.cpp(118,11): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\VoxEdit.cpp(118,11): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\VoxEdit.cpp(118,11): message : 書式文字列に '%I64d' を使用することをお勧めします
+  WindowGUI_Manager_Class.cpp
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(71,3): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(21,7): warning C4101: 'winRect': ローカル変数は 1 度も使われていません。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(627,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(676,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(722,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(793,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(814,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(827,10): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(856,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(890,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(897,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(947,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(953,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\WindowGUI_Manager_Class.cpp(975,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+  コード生成しています。
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  VoxEdit.vcxproj -> C:\Users\wtnbk\OneDrive\デスクトップ\230318-VoxEdit\VoxEdit\x64\Release\VoxEdit.exe
